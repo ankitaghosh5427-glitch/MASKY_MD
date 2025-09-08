@@ -50,7 +50,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 For further customization and setup guidance, click the button below:
 
 <div align="center">
-  <a href="https://youtu.be/-oz_u1iMgf8">
+  <a href="https://youtu.be/CA7CfI-8Gpk?si=ppqwJEkpLaqTYVQ0">
     <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
   <a href="https://bot-hosting.net/">
@@ -59,10 +59,10 @@ For further customization and setup guidance, click the button below:
 </div>
 
 
-### Deploy Now on Below Panel
+### Deploy Now on Below Render
 <div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+<a href="https://dashboard.render.com/web/new" target="_blank">
+  <img src="https://img.shields.io/badge/Render-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Render"/>
 </a>
 </div>
 
