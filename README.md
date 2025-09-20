@@ -61,6 +61,9 @@ For further customization and setup guidance, click the button below:
 
 ### Deploy Now on Below Render
 <div align="center">
+  <a href="https://youtu.be/CA7CfI-8Gpk?si=ppqwJEkpLaqTYVQ0">
+    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="How to deploy"/>
+  </a>
 <a href="https://dashboard.render.com/web/new" target="_blank">
   <img src="https://img.shields.io/badge/Render-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Render"/>
 </a>
